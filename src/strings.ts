@@ -10,6 +10,7 @@ export const STRINGS = {
   directorLabel: "Director",
   stats: "Statistics",
   languageLabel: "Language",
+  toggleMetadata: "Toggle Metadata",
   genresLabel: "Genres",
   releasesLabel: "Releases",
 };
